@@ -18,5 +18,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://namgoong-suyeong.notion.site/4d2556bc3994432681f21f69779a0660?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://namgoong-suyeong.notion.site/4d2556bc3994432681f21f69779a0660?pvs=4"> </a>
           </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <div style="text-align: left; font-weight:500;"> sp38013@yahoo.com </div> 
     </div>
